@@ -1,0 +1,9 @@
+name = "Jansher"
+age = 23
+course_name = "Python Basics"
+# 2name = "Jansher"       # ❌ Cannot start with a number
+# my-name = "Jansher"     # ❌ Dashes not allowed in variable names
+# user name = "Jansher"   # ❌ Spaces not allowed in variable names
+student_name = "jansher"
+student_age = 23
+total_marks = 98
